@@ -1,0 +1,1 @@
+- The no.1 task of go mod file is to initialize it and give the idea of on which version the code is
